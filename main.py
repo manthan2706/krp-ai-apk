@@ -1,0 +1,1 @@
+print("KRP AI STARTED")
